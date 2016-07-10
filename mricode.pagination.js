@@ -1,14 +1,3 @@
-/*!
- * Mricode Pagination Plugin
- * Github: https://github.com/mricle/Mricode.Pagination
- * Version: 1.4.4
- * 
- * Required jQuery
- * 
- * Copyright 2016 Mricle
- * Released under the MIT license
- */
-
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD
